@@ -1,2 +1,0 @@
-# workshop
-A basic workshop
