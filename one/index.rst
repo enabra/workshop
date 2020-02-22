@@ -7,9 +7,7 @@ Overview
 
 In this guide we will learn all about the number one.
 
-This coffee is linked via "images/":
-
-.. image:: /images/coffee.jpg
+.. image:: ../_static/coffee.jpg
 
 
 Requirements
