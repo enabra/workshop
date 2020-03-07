@@ -1,4 +1,11 @@
 Welcome to Sample Workshop
 ==========================
 
-This index doesn't contain a root `toctree` directive, because it's unnecessary.
+The goal of this is to demonstrate the simplicity of a workshop's structure.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   one/index
+   two/index
